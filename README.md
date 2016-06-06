@@ -10,3 +10,5 @@
 - [Zed Shaw's Command-Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [Simple base stylesheet](http://fvsch.com/code/base-stylesheet/)
 - [Meteor Logo](http://logo.meteorapp.com/)
+- [Adobe Color CC: odd](https://color.adobe.com/odd-color-theme-8162285/?showPublished=true)
+- [oh my zsh](http://ohmyz.sh/)
