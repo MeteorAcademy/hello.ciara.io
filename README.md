@@ -14,4 +14,5 @@
 - [Simple base stylesheet](http://fvsch.com/code/base-stylesheet/)
 - [Meteor Logo](http://logo.meteorapp.com/)
 - [Adobe Color CC: odd](https://color.adobe.com/odd-color-theme-8162285/?showPublished=true)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [oh my zsh](http://ohmyz.sh/)
