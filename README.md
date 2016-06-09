@@ -3,6 +3,7 @@
 ## TODO
 
 ### Resources
+- [ciara.io](http://ciara.io)
 - [Zed Shaw's Command-Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [Meteor Tutorial: Todo App](https://www.meteor.com/tutorials/blaze/creating-an-app)
 - [Meteor Blog: Hot code pushes](http://info.meteor.com/blog/hot-code-pushes)
